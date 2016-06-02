@@ -1,0 +1,319 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="614" height="706" frameRate="40" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 15.1 build 13" majorVersion="15" minorVersion="1" buildNumber="13" guidesSnapTo="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="60.3253509148967" previewMode="fast" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C">
+     <media>
+          <DOMBitmapItem name="credited.jpg" itemID="5745a48d-00000007" sourceLastImported="1464181679" sourcePlatform="macintosh" externalFileSize="47326" allowSmoothing="true" quality="50" href="credited.jpg" bitmapDataHRef="M 1 1464181901.dat" frameRight="12280" frameBottom="14120" isJPEG="true"/>
+     </media>
+     <symbols>
+          <Include href="grav-1.xml" itemIcon="1" loadImmediate="false" itemID="57502ed2-00000084" lastModified="1464874330"/>
+          <Include href="main.xml" itemIcon="1" loadImmediate="false" itemID="57502f05-0000008a" lastModified="1464878368"/>
+          <Include href="red-16.xml" itemIcon="1" loadImmediate="false" itemID="575035a4-000000d6" lastModified="1464881930"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="29">
+               <layers>
+                    <DOMLayer name="Layer 11" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main" symbolType="graphic" firstFrame="23" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="265.05" ty="464.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.5" y="2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 9" color="#4F80FF">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main" symbolType="graphic" firstFrame="11" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="265.05" ty="464.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.5" y="2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 8" color="#FF4F4F" visible="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main" symbolType="graphic" firstFrame="8" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="265.05" ty="464.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.5" y="2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#669900" visible="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main" selected="true" symbolType="graphic" firstFrame="5" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="265.05" ty="464.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.5" y="2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#808080" visible="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main" symbolType="graphic" firstFrame="2" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="265.05" ty="464.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.5" y="2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 12" color="#FF4FFF">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="grav-1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="269.95" ty="90.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#009999">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="265.05" ty="464.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.5" y="2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 13" color="#009999" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="red-16" symbolType="graphic" firstFrame="18" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="471.8" ty="50.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="red-16" symbolType="graphic" firstFrame="15" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="471.8" ty="50.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="red-16" symbolType="graphic" firstFrame="8" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="471.8" ty="50.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="red-16" selected="true" symbolType="graphic" firstFrame="5" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="471.8" ty="50.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#0000FF" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!490 483|4229 483!4229 483[4295 486 4425 486!4425 486[4539 488 4619 501!4619 501[5075 517 5695 653!5695 653|5820 684!5820 684[6040 738 6379 859!6379 859|6531 920!6531 920[6737 1008 6926 1103!6926 1103[7114 1202 7270 1302!7270 1302[7856
+ 1676 8196 2135!8196 2135[8437 2448 8607 2801!8607 2801[8721 3037 8782 3225!8782 3225|8840 3405!8840 3405[8914 3657 8970 4010!8970 4010[8981 4087 8991 4246!8991 4246[9007 4349 9010 4506!9010 4506[9010 4593 9010 4766!9010 4766[9007 4826
+ 9007 4948!9007 4948[9005 5060 8991 5131!8991 5131[8989 5171 8983 5251!8983 5251[8978 5322 8968 5367!8968 5367[8920 5733 8806 6073!8806 6073|8782 6152!8782 6152[8522 6858 8084 7364!8084 7364[7681 7839 7117 8178!7117 8178[6867 8327 6637
+ 8430!6637 8430[6432 8523 6242 8589!6242 8589|5849 8714!5849 8714[6334 9393 7639 11217!7639 11217[8766 12798 9429 13720!9429 13720[9087 13723 7371 13723!7371 13723[6902 13731 6668 13718!6668 13718[6536 13516 6308 13198!6308 13198[6021
+ 12792 5945 12684!5945 12684|1954 7049!1954 7049[2643 7041 4017 7043!4017 7043[4446 7041 4879 6937!4879 6937|4982 6911!4982 6911[5152 6866 5385 6765!5385 6765[5743 6603 6016 6349!6016 6349[6308 6075 6459 5739!6459 5739[6629 5346 6645
+ 4893!6645 4893[6658 4461 6536 4031!6536 4031|6499 3930!6499 3930[6393 3636 6178 3389!6178 3389[5971 3153 5693 2989!5693 2989[5226 2718 4597 2631!4597 2631[4322 2588 3942 2583!3942 2583[3502 2583 3282 2580!3282 2580|490 2580!490 2580
+|490 483"/>
+                                                  <Edge cubics="!490 483(;1736,483 2983,483 4229,483p490 483 4229 483);"/>
+                                                  <Edge cubics="!4229 483(;4359,488 4489,480 4619,501q4229 483Q4295 486q4425 486Q4539 488q4619 501);"/>
+                                                  <Edge cubics="!4619 501(;4979,515 5340,576 5695,653q4619 501Q5075 517q5695 653)5695,653;"/>
+                                                  <Edge cubics="!5695 653(;5735,663 5780,674 5820,684p5695 653 5820 684);"/>
+                                                  <Edge cubics="!5820 684(;6011,730 6196,793 6379,859q5820 684Q6040 738q6379 859);"/>
+                                                  <Edge cubics="!6379 859(;6430,881 6480,899 6531,920q6379 859p6531 920);"/>
+                                                  <Edge cubics="!6531 920(6531,920;6663,976 6796,1037 6926,1103q6531 920Q6737 1008q6926 1103)6926,1103;"/>
+                                                  <Edge cubics="!6926 1103(;7042,1164 7159,1231 7270,1302q6926 1103Q7114 1202q7270 1302);"/>
+                                                  <Edge cubics="!7270 1302(;7623,1528 7947,1798 8196,2135q7270 1302Q7856 1676q8196 2135);"/>
+                                                  <Edge cubics="!8196 2135(;8355,2342 8493,2565 8607,2801q8196 2135Q8437 2448q8607 2801);"/>
+                                                  <Edge cubics="!8607 2801(;8673,2938 8734,3079 8782,3225q8607 2801Q8721 3037q8782 3225);"/>
+                                                  <Edge cubics="!8840 3405(;8899,3601 8938,3806 8970,4010q8840 3405Q8914 3657q8970 4010);"/>
+                                                  <Edge cubics="!8970 4010(;8981,4087 8983,4166 8991,4246q8970 4010Q8981 4087q8991 4246);"/>
+                                                  <Edge cubics="!8991 4246(;9018,4418 9005,4593 9010,4766q8991 4246Q9007 4349q9010 4506Q9010 4593q9010 4766);"/>
+                                                  <Edge cubics="!9010 4766(;9005,4887 9013,5012 8991,5131q9010 4766Q9007 4826q9007 4948Q9005 5060q8991 5131);"/>
+                                                  <Edge cubics="!8991 5131(;8983,5211 8983,5291 8968,5367q8991 5131Q8989 5171q8983 5251Q8978 5322q8968 5367);"/>
+                                                  <Edge cubics="!8968 5367(;8936,5606 8883,5842 8806,6073q8968 5367Q8920 5733q8806 6073);"/>
+                                                  <Edge cubics="!8806 6073(;8798,6099 8790,6126 8782,6152q8806 6073p8782 6152);"/>
+                                                  <Edge cubics="!8782 6152(;8620,6593 8392,7009 8084,7364q8782 6152Q8522 6858q8084 7364);"/>
+                                                  <Edge cubics="!8084 7364(;7809,7688 7477,7961 7117,8178q8084 7364Q7681 7839q7117 8178);"/>
+                                                  <Edge cubics="!7117 8178(;6960,8271 6801,8356 6637,8430q7117 8178Q6867 8327q6637 8430);"/>
+                                                  <Edge cubics="!6637 8430(;6507,8489 6377,8542 6242,8589q6637 8430Q6432 8523q6242 8589);"/>
+                                                  <Edge cubics="!5849 8714(;7045,10382 8230,12055 9429,13720q5849 8714Q6334 9393q7639 11217Q8766 12798q9429 13720);"/>
+                                                  <Edge cubics="!9429 13720(;8742,13726 8058,13723 7371,13723q9429 13720Q9087 13723q7371 13723);"/>
+                                                  <Edge cubics="!7371 13723(;7138,13720 6902,13731 6668,13718q7371 13723Q6902 13731q6668 13718);"/>
+                                                  <Edge cubics="!6668 13718(;6435,13368 6183,13028 5945,12684q6668 13718Q6536 13516q6308 13198Q6021 12792q5945 12684);"/>
+                                                  <Edge cubics="!5945 12684(;4613,10806 3285,8926 1954,7049q5945 12684p1954 7049);"/>
+                                                  <Edge cubics="!1954 7049(1954,7049;2643,7041 3330,7046 4017,7043q1954 7049Q2643 7041q4017 7043)4017,7043;"/>
+                                                  <Edge cubics="!4017 7043(;4308,7041 4597,7004 4879,6937q4017 7043Q4446 7041q4879 6937);"/>
+                                                  <Edge cubics="!4879 6937(4879,6937;4913,6929 4947,6921 4982,6911q4879 6937 4982 6911)4982,6911;"/>
+                                                  <Edge cubics="!4982 6911(;5120,6874 5255,6821 5385,6765q4982 6911Q5152 6866q5385 6765);"/>
+                                                  <Edge cubics="!5385 6765(;5846,6555 6249,6203 6459,5739q5385 6765Q5743 6603q6016 6349Q6308 6075q6459 5739);"/>
+                                                  <Edge cubics="!6459 5739(;6690,5203 6695,4588 6536,4031q6459 5739Q6629 5346q6645 4893Q6658 4461q6536 4031);"/>
+                                                  <Edge cubics="!6536 4031(;6523,3997 6512,3962 6499,3930q6536 4031 6499 3930);"/>
+                                                  <Edge cubics="!6499 3930(;6356,3530 6056,3201 5693,2989q6499 3930Q6393 3636q6178 3389Q5971 3153q5693 2989);"/>
+                                                  <Edge cubics="!5693 2989(;5359,2795 4979,2684 4597,2631q5693 2989Q5226 2718q4597 2631);"/>
+                                                  <Edge cubics="!4597 2631(;4163,2565 3722,2583 3282,2580q4597 2631Q4322 2588q3942 2583Q3502 2583q3282 2580);"/>
+                                                  <Edge cubics="!3282 2580(;3282,2580 490,2580 490,2580q3282 2580p490 2580);"/>
+                                                  <Edge cubics="!490 2580(;490,1883 490,1183 490,483q490 2580p490 483);"/>
+                                                  <Edge cubics="!8782 3225(;8782,3225 8840,3405 8840,3405q8782 3225 8840 3405)8840,3405;"/>
+                                                  <Edge cubics="!6242 8589(;6242,8589 5849,8714 5849,8714q6242 8589 5849 8714);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMGroup>
+                                             <members>
+                                                  <DOMShape>
+                                                       <fills>
+                                                            <FillStyle index="1">
+                                                                 <SolidColor color="#CC000F"/>
+                                                            </FillStyle>
+                                                            <FillStyle index="2">
+                                                                 <SolidColor color="#CC0010"/>
+                                                            </FillStyle>
+                                                       </fills>
+                                                       <strokes>
+                                                            <StrokeStyle index="1">
+                                                                 <SolidStroke scaleMode="normal" weight="2">
+                                                                      <fill>
+                                                                           <SolidColor color="#5B8276"/>
+                                                                      </fill>
+                                                                 </SolidStroke>
+                                                            </StrokeStyle>
+                                                       </strokes>
+                                                       <edges>
+                                                            <Edge fillStyle1="2" edges="
+!11632 1731[11632 1609 11550 1522!11550 1522[11468 1439 11333 1439!11333 1439[11197 1439 11118 1522!11118 1522[11036 1604 11036 1731!11036 1731[11036 1856 11118 1938!11118 1938[11197 2020 11333 2020!11333 2020[11468 2020 11550 1938!11550
+ 1938[11632 1851 11632 1731!11314 1158|11378 1145!11378 1145|11444 1140!11444 1140[11577 1140 11683 1187!11683 1187[11792 1235 11866 1317!11866 1317[11943 1400 11983 1508!11983 1508[12025 1617 12025 1747!12025 1747[12025 1888 11972 2007
+!11972 2007[11914 2127 11823 2206!11823 2206[11728 2294 11603 2336!11603 2336[11476 2384 11333 2384!11333 2384[11187 2384 11059 2336!11059 2336[10937 2294 10842 2206!10842 2206[10746 2119 10696 2007!10696 2007[10640 1893 10640 1747!10640
+ 1747[10640 1662 10659 1564!10659 1564[10680 1479 10709 1408!10709 1408[10736 1339 10778 1267!10778 1267|11269 495!11269 495|11749 495!11749 495|11314 1158!10027 935|9656 1264!9656 1264|9433 1007!9433 1007|10038 495!10038 495|10404 495
+!10404 495|10404 2352!10404 2352|10027 2352!10027 2352|10027 935"/>
+                                                            <Edge fillStyle1="1" strokeStyle="1" edges="
+!10763 4821|11503 4821!11503 4821|11503 5561!11503 5561|10763 5561!10763 5561|10763 4821"/>
+                                                            <Edge cubics="!10027 935(10027,935;10027,935 9656,1264 9656,1264p10027 935 9656 1264)9656,1264;"/>
+                                                            <Edge cubics="!9656 1264(;9656,1264 9433,1007 9433,1007q9656 1264 9433 1007)9433,1007;"/>
+                                                            <Edge cubics="!9433 1007(;9433,1007 10038,495 10038,495p9433 1007q10038 495)10038,495;"/>
+                                                            <Edge cubics="!10038 495(10038,495;10038,495 10404,495 10404,495p10038 495q10404 495)10404,495;"/>
+                                                            <Edge cubics="!10404 495(10404,495;10404,495 10404,2352 10404,2352q10404 495 10404 2352)10404,2352;"/>
+                                                            <Edge cubics="!10404 2352(;10404,2352 10027,2352 10027,2352q10404 2352 10027 2352);"/>
+                                                            <Edge cubics="!10027 2352(;10027,2352 10027,935 10027,935q10027 2352 10027 935);"/>
+                                                            <Edge cubics="!11632 1731(;11632,1646 11603,1577 11550,1522q11632 1731Q11632 1609q11550 1522);"/>
+                                                            <Edge cubics="!11550 1522(;11494,1466 11423,1439 11333,1439q11550 1522Q11468 1439q11333 1439);"/>
+                                                            <Edge cubics="!11333 1439(;11245,1439 11171,1466 11118,1522q11333 1439Q11197 1439q11118 1522);"/>
+                                                            <Edge cubics="!11118 1522(;11062,1577 11036,1646 11036,1731q11118 1522Q11036 1604q11036 1731);"/>
+                                                            <Edge cubics="!11036 1731(;11036,1813 11062,1882 11118,1938q11036 1731Q11036 1856q11118 1938);"/>
+                                                            <Edge cubics="!11118 1938(;11171,1994 11245,2020 11333,2020q11118 1938Q11197 2020q11333 2020);"/>
+                                                            <Edge cubics="!11333 2020(;11423,2020 11494,1994 11550,1938q11333 2020Q11468 2020q11550 1938);"/>
+                                                            <Edge cubics="!11550 1938(11550,1938;11603,1882 11632,1813 11632,1731q11550 1938Q11632 1851q11632 1731);"/>
+                                                            <Edge cubics="!11314 1158(;11335,1153 11357,1150 11378,1145p11314 1158 11378 1145);"/>
+                                                            <Edge cubics="!11378 1145(;11399,1142 11420,1140 11444,1140p11378 1145 11444 1140);"/>
+                                                            <Edge cubics="!11444 1140(;11532,1140 11611,1155 11683,1187q11444 1140Q11577 1140q11683 1187);"/>
+                                                            <Edge cubics="!11683 1187(;11754,1219 11815,1262 11866,1317q11683 1187Q11792 1235q11866 1317);"/>
+                                                            <Edge cubics="!11866 1317(;11916,1370 11956,1434 11983,1508q11866 1317Q11943 1400q11983 1508);"/>
+                                                            <Edge cubics="!11983 1508(;12012,1583 12025,1662 12025,1747q11983 1508Q12025 1617q12025 1747);"/>
+                                                            <Edge cubics="!12025 1747(;12025,1843 12006,1930 11972,2007q12025 1747Q12025 1888q11972 2007);"/>
+                                                            <Edge cubics="!11972 2007(;11935,2084 11887,2150 11823,2206q11972 2007Q11914 2127q11823 2206);"/>
+                                                            <Edge cubics="!11823 2206(;11762,2262 11688,2307 11603,2336q11823 2206Q11728 2294q11603 2336);"/>
+                                                            <Edge cubics="!11603 2336(;11518,2368 11428,2384 11333,2384q11603 2336Q11476 2384q11333 2384);"/>
+                                                            <Edge cubics="!11333 2384(;11234,2384 11144,2368 11059,2336q11333 2384Q11187 2384q11059 2336);"/>
+                                                            <Edge cubics="!11059 2336(11059,2336;10977,2307 10903,2262 10842,2206q11059 2336Q10937 2294q10842 2206);"/>
+                                                            <Edge cubics="!10842 2206(;10781,2150 10730,2084 10696,2007q10842 2206Q10746 2119q10696 2007);"/>
+                                                            <Edge cubics="!10696 2007(;10659,1930 10640,1843 10640,1747q10696 2007Q10640 1893q10640 1747);"/>
+                                                            <Edge cubics="!10640 1747(;10640,1678 10648,1620 10659,1564q10640 1747Q10640 1662q10659 1564);"/>
+                                                            <Edge cubics="!10659 1564(;10672,1508 10688,1458 10709,1408q10659 1564Q10680 1479q10709 1408);"/>
+                                                            <Edge cubics="!10709 1408(;10728,1360 10752,1312 10778,1267q10709 1408Q10736 1339q10778 1267);"/>
+                                                            <Edge cubics="!11269 495(;11269,495 11749,495 11749,495q11269 495 11749 495);"/>
+                                                            <Edge cubics="!11749 495(;11749,495 11314,1158 11314,1158q11749 495 11314 1158);"/>
+                                                            <Edge cubics="!10778 1267(;10778,1267 11269,495 11269,495q10778 1267 11269 495);"/>
+                                                            <Edge cubics="!11503 4821(;11503,4821 11503,5561 11503,5561q11503 4821 11503 5561);"/>
+                                                            <Edge cubics="!10763 5561(;10763,5561 10763,4821 10763,4821q10763 5561 10763 4821);"/>
+                                                            <Edge cubics="!10763 4821(;10763,4821 11503,4821 11503,4821q10763 4821 11503 4821);"/>
+                                                            <Edge cubics="!11503 5561(;11503,5561 10763,5561 10763,5561q11503 5561 10763 5561);"/>
+                                                       </edges>
+                                                  </DOMShape>
+                                             </members>
+                                        </DOMGroup>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" locked="true" visible="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="credited.jpg"/>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory/>
+</DOMDocument>
